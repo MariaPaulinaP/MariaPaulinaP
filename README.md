@@ -1,7 +1,6 @@
-### Hi there 👋
+¡Hola! 👋
 
-<!--
-**MariaPaulinaP/MariaPaulinaP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Maria Paulina, desarolladora Front end.
 
 Here are some ideas to get you started:
 
