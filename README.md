@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy Maria Paulina Parra</h1>
 <h3 align="center">Desarrolladora Front-End con el objetivo de crecer en el mundo TI.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariapaulinap" alt="mariapaulinap" /></a> </p>
 
 - 🔭 Estudios: **Desarrollo Front End (actualmente)**
 
@@ -23,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariapaulinap&show_icons=true&locale=en&layout=compact" alt="mariapaulinap" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariapaulinap&show_icons=true&locale=en" alt="mariapaulinap" /></p>
+
