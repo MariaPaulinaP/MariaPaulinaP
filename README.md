@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Maria Paulina Parra</h1>
-<h3 align="center">Desarrolladora Front-End con entusiasmo de seguir aprendiendo sobre el mundo TI.</h3>
+<h3 align="center">Desarrolladora Front-End con el objetivo de crecer en el mundo TI.</h3>
 
-- 🔭 Estoy estudiando **desarrollo Front End**
+- 🔭 Estudios: **Desarrollo Front End (actualmente)**
 
-- 🌱Actualmente estoy aprendiendo **React.js y JavaScript**
+- 🌱Conocimiento específico en **React.js y JavaScript**
 
 - 💬 Pregúntame sobre: **HTML,CSS, JavaScript**
 
@@ -22,6 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariapaulinap&show_icons=true&locale=en&layout=compact" alt="mariapaulinap" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mariapaulinap&show_icons=true&locale=en" alt="mariapaulinap" /></p>
-
-
-
