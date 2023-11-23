@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Maria Paulina Parra</h1>
 <h3 align="center">Desarrolladora Front-End con el objetivo de crecer en el mundo TI.</h3>
 
-- 🔭 Estudios: **Desarrollo Front End (actualmente)**
+- 🔭 Estudios: **Desarrollo Front End**
 
 - 🌱Conocimiento específico en **React.js y JavaScript**
 
