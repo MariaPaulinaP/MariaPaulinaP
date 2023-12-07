@@ -5,7 +5,7 @@
 
 - 🌱Conocimiento específico en **React.js y JavaScript**
 
-- 💬 Pregúntame sobre: **HTML,CSS, JavaScript**
+- 💬 Pregúntame sobre: **HTML,CSS, JavaScript, MySQL**
 
 - 📫 Contáctame en: **mariapaulinap0531@gmail.com**
 
